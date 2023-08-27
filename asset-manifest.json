@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todoapp/static/js/main.fcfa436c.js",
+    "index.html": "/todoapp/index.html",
+    "main.fcfa436c.js.map": "/todoapp/static/js/main.fcfa436c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcfa436c.js"
+  ]
+}
